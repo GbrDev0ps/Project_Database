@@ -1,4 +1,4 @@
-# Sparta_Project
+# Project_Database
 Projeto para consulta de dados.
 
 Passo a passo para rodar a solução localmente:
